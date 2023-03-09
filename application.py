@@ -109,9 +109,8 @@ welcome = """
     <h1>IT WORKED!!!!! :D ШПАСИБА СОВОЧКУ ЗА КАРТИНКУ</h1>
     <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
     <p>This environment is launched with Elastic Beanstalk Python Platform</p>
-    <img src="image.jpg" alt="Italian Trulli">
   </div>
-  
+  <img src="image.jpg" alt="sovochek coctail">
   <div class="linksColumn"> 
     <h2>What's Next?</h2>
     <ul>
